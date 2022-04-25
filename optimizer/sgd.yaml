@@ -1,0 +1,3 @@
+defaults:
+        - base_sgd
+momentum: 0.9
